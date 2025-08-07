@@ -73,10 +73,3 @@ Previously worked with organizations like **Robert Bosch**, **Citrix**, **Extrem
 ---
 
 *“Striving to build efficient systems that scale.”*
-Would you like me to also generate this as a README.md file for download?
-
-
-
-
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
