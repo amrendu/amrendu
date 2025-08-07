@@ -1,12 +1,3 @@
-Skip to content
-Chat history
-
-You said:
-resume-amrendu.pdf
-PDF
-create github README.md for my account ,based on my resume attached
-ChatGPT said:
-Here’s a professional and engaging README.md for your GitHub profile, based on your resume:
 
 # 👋 Hi, I'm Amrendu Kumar
 
